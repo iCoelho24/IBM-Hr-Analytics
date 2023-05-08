@@ -1,6 +1,6 @@
 # Previsão de Evasão de Funcionários da IBM
 
-#### *Descrição*
+#### **Descrição**
 Este projeto tem como objetivo prever a probabilidade de um funcionário se demitir da IBM. Utilizamos um conjunto de dados fornecido pela empresa, que inclui informações como idade, departamento, frequência de viagens, salário, nível de satisfação no trabalho e tempo de serviço.
 
 Utilizamos o Python como linguagem de programação e os modelos Logistic Regression, Random Forest e XGBoost para prever a evasão de funcionários. Utilizamos as métricas Precision e Recall e a Matriz de Confusão para avaliar a precisão do modelo.
