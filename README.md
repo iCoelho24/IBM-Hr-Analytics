@@ -21,10 +21,12 @@ O conjunto de dados que utilizamos foi fornecido pela IBM e inclui informações
 #### **Arquivos do Projeto**
 O projeto possui os seguintes arquivos:
 
-IBM Hr Analytics.csv: conjunto de dados utilizado no projeto.
-IBM.ipynb: um notebook Jupyter que contém o código utilizado para análise e previsão.
-README.md: este arquivo.
-Resultados
+IBM Hr Analytics.csv: conjunto de dados utilizado no projeto. <br>
+IBM.ipynb: um notebook Jupyter que contém o código utilizado para análise e previsão. <br>
+README.md: este arquivo. <br>
+
+Resultados <br>
+
 Os resultados da previsão foram avaliados com as métricas de Precision e Recall e a Matriz de Confusão. Os resultados são descritos no arquivo IBM Hr Analytics.ipynb.
 
 #### **Conclusão**
