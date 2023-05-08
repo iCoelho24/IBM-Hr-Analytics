@@ -7,14 +7,15 @@ Utilizamos o Python como linguagem de programação e os modelos Logistic Regres
 
 #### **Hipóteses que tentaremos responder:**
 
-Existe alguma relação entre a idade do funcionário e sua probabilidade de evasão?
-Funcionários da área de vendas têm maior probabilidade de evasão do que outros departamentos?
-Funcionários que viajam com mais frequência têm maior probabilidade de evasão?
-Qual é a influência do salário na probabilidade de evasão?
-Existe alguma relação entre o nível de satisfação com o trabalho e a probabilidade de evasão?
-Qual é a influência do tempo que um funcionário passou na empresa na probabilidade de evasão?
-Funcionários que receberam uma promoção recentemente têm menor probabilidade de evasão?
-Conjunto de Dados
+Existe alguma relação entre a idade do funcionário e sua probabilidade de evasão? <br>
+Funcionários da área de vendas têm maior probabilidade de evasão do que outros departamentos? <br>
+Funcionários que viajam com mais frequência têm maior probabilidade de evasão? <br>
+Qual é a influência do salário na probabilidade de evasão?<br>
+Existe alguma relação entre o nível de satisfação com o trabalho e a probabilidade de evasão? <br>
+Qual é a influência do tempo que um funcionário passou na empresa na probabilidade de evasão? <br>
+Funcionários que receberam uma promoção recentemente têm menor probabilidade de evasão? <br>
+
+Conjunto de Dados <br>
 O conjunto de dados que utilizamos foi fornecido pela IBM e inclui informações sobre os funcionários da empresa. O conjunto de dados possui X amostras e Y características. Ele está localizado no arquivo "IBM_Employee.csv" neste repositório.
 
 #### **Arquivos do Projeto**
